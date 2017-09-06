@@ -1,2 +1,2 @@
-# dory-nfc-arduino-trackers
-NFC trackers to develop habits
+# "Dory" NFC habit makers
+Arduino based NFC trackers to develop habits
