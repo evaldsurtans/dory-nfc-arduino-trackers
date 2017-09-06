@@ -1,10 +1,10 @@
 #include "SeeedRFID.h" //Modified https://github.com/Seeed-Studio/RFID_Library
 #include <SoftwareSerial.h>
 
-#include <LowPower.h>
+#include <LowPower.h> // https://github.com/rocketscream/Low-Power
 #include <avr/wdt.h>
 
-#include <EEPROMex.h>
+#include <EEPROMex.h> // https://github.com/thijse/Arduino-EEPROMEx
 #include <EEPROMVar.h>
 
 #define PIN_RFID_RX 7

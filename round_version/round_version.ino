@@ -2,11 +2,11 @@
 #include <Arduino.h>
 #include <Wire.h>
 #include <SPI.h>
-#include <Adafruit_PN532.h>
-#include <LowPower.h>
+#include <Adafruit_PN532.h> // https://github.com/adafruit/Adafruit-PN532
+#include <LowPower.h> // https://github.com/rocketscream/Low-Power
 #include <avr/wdt.h>
 
-#include <EEPROMex.h>
+#include <EEPROMex.h> // https://github.com/thijse/Arduino-EEPROMEx
 #include <EEPROMVar.h>
 
 
